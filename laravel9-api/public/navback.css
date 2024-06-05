@@ -1,0 +1,15 @@
+.navbar {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.back-button {
+    text-decoration: none;
+    color: #0000CD; /* Blue color */
+    font-size: 24px;
+}
+
+.back-button:hover {
+    color: #00008B; /* Dark blue color on hover */
+}
